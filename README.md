@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS3332-Library-Management-Application
 
 ## Project Overview
@@ -69,3 +70,6 @@ Library-Management-Application is a comprehensive library management system deve
    ```sh
    mvn javafx:run
    ```
+=======
+# CS-4420-Training-Center-Management-System
+>>>>>>> 295db83232e92dd1eaab92625861d5e3f18708c1
